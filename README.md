@@ -7,7 +7,10 @@
 
 - 📫 How to reach me **ganeshsirikonda5@gmail.com**
 
-  <p  align="center"><img height="380" src = "[https://github.com/Bhard27/Bhard27/blob/master/mee.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)"></p>
+<p align="center">
+    <img height="380" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif" alt="Image">
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
