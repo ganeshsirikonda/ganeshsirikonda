@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center">
-    <img style="float: right; margin-left: 20px;" height="560" width="580" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif" alt="Image">
+    <img style="float: right; margin-left: 20px;" height="360" width="380" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif" alt="Image">
 </p>
 
 <p align="left">
